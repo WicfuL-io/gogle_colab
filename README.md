@@ -1,1 +1,1 @@
-# gogle_colab
+# pemrograman python (file, ipynb)
