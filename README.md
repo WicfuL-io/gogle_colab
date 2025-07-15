@@ -1,1 +1,0 @@
-# pemrograman python (file, ipynb)
